@@ -1,0 +1,60 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1368px;
+}
+img{
+    margin-top : 140px;
+    width : 300px;
+    height : 300px;
+}
+.left{
+    text-align: center;
+}
+h3{
+    margin-top : 150px;
+    margin-bottom: 30px;
+}
+.input-group i{
+    padding-top: 7px;
+    padding-left: 3px;
+}
+input{
+    font-size : 12px;
+    padding-bottom: 5px;
+    border : none;
+    outline: none;
+    border-bottom: 1px solid black;
+    padding-left: 12px;
+    margin-bottom : 10px;
+}
+.me{
+    margin-top : 20px;
+}
+.btn{
+    margin-top : 50px;
+}
+p{
+    font-size : 14px;
+}
+.fa-facebook{
+   color: rgb(59, 94, 162);
+    font-size : 22px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.fa-twitter{
+    color: rgb(59, 94, 162);
+    font-size : 22px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.fa-google{
+    color: rgb(59, 94, 162);
+    font-size : 22px;
+margin-left: 10px;
+    margin-right: 10px;
+}
